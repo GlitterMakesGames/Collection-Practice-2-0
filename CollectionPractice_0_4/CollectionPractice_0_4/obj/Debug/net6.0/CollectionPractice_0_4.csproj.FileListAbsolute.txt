@@ -1,0 +1,15 @@
+C:\Users\Delaina\source\repos\CollectionPractice_0_4\CollectionPractice_0_4\bin\Debug\net6.0\CollectionPractice_0_4.exe
+C:\Users\Delaina\source\repos\CollectionPractice_0_4\CollectionPractice_0_4\bin\Debug\net6.0\CollectionPractice_0_4.deps.json
+C:\Users\Delaina\source\repos\CollectionPractice_0_4\CollectionPractice_0_4\bin\Debug\net6.0\CollectionPractice_0_4.runtimeconfig.json
+C:\Users\Delaina\source\repos\CollectionPractice_0_4\CollectionPractice_0_4\bin\Debug\net6.0\CollectionPractice_0_4.dll
+C:\Users\Delaina\source\repos\CollectionPractice_0_4\CollectionPractice_0_4\bin\Debug\net6.0\CollectionPractice_0_4.pdb
+C:\Users\Delaina\source\repos\CollectionPractice_0_4\CollectionPractice_0_4\obj\Debug\net6.0\CollectionPractice_0_4.csproj.AssemblyReference.cache
+C:\Users\Delaina\source\repos\CollectionPractice_0_4\CollectionPractice_0_4\obj\Debug\net6.0\CollectionPractice_0_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Delaina\source\repos\CollectionPractice_0_4\CollectionPractice_0_4\obj\Debug\net6.0\CollectionPractice_0_4.AssemblyInfoInputs.cache
+C:\Users\Delaina\source\repos\CollectionPractice_0_4\CollectionPractice_0_4\obj\Debug\net6.0\CollectionPractice_0_4.AssemblyInfo.cs
+C:\Users\Delaina\source\repos\CollectionPractice_0_4\CollectionPractice_0_4\obj\Debug\net6.0\CollectionPractice_0_4.csproj.CoreCompileInputs.cache
+C:\Users\Delaina\source\repos\CollectionPractice_0_4\CollectionPractice_0_4\obj\Debug\net6.0\CollectionPractice_0_4.dll
+C:\Users\Delaina\source\repos\CollectionPractice_0_4\CollectionPractice_0_4\obj\Debug\net6.0\refint\CollectionPractice_0_4.dll
+C:\Users\Delaina\source\repos\CollectionPractice_0_4\CollectionPractice_0_4\obj\Debug\net6.0\CollectionPractice_0_4.pdb
+C:\Users\Delaina\source\repos\CollectionPractice_0_4\CollectionPractice_0_4\obj\Debug\net6.0\CollectionPractice_0_4.genruntimeconfig.cache
+C:\Users\Delaina\source\repos\CollectionPractice_0_4\CollectionPractice_0_4\obj\Debug\net6.0\ref\CollectionPractice_0_4.dll
